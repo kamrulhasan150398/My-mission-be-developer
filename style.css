@@ -1,0 +1,87 @@
+body {
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+#orange-color {
+    color: orange;
+}
+
+.fovouse-session {
+    display: flex;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.border1 {
+    border-left: solid red;
+}
+
+.link-boton {
+    text-decoration: none;
+    background-image: linear-gradient(red, blue);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 50px;
+}
+
+.box-shadow {
+    border: 1px solid gray;
+    padding: 20px;
+    /* background-color: aqua; */
+    border-radius: 25px;
+    margin-left: 10px;
+    box-shadow: 5px 10px 18px;
+}
+
+.yalow-color {
+    color: orange;
+}
+
+#colore-gray {
+    background-color: gray;
+}
+
+#colore-yalow {
+    background-color: yellowgreen;
+}
+
+#colore-samon {
+    background-color: salmon;
+}
+
+section {
+
+    margin-bottom: 50px;
+}
+
+.Glober {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+footer {
+    text-align: center;
+    /* padding: 1px; */
+    background-color: black;
+    color: white;
+}
